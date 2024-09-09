@@ -2,13 +2,7 @@
 
 ---
 
-This will be a folder of everything JavaScript i will do or ever use
-
-- this will also contain my code.org projects
-
-- when you've made changes, you need to stage them. stage them like this:
-
----
+This will be a folder of everything c++ for my college classes
 
 ## How to upload to GitHub
 
