@@ -13,8 +13,8 @@
 
 ## Types of statements
 - **Declaration statements**: declaration statement is a statement that introduces a new identifier (e.g., a variable, function, or class) into the program. It specifies the type and name of the identifier, and may also initialize it with a value
-    cpp
-    ```
+  
+    ```cpp
     int x;  // declares an integer variable x
     double y = 3.14;  // declares a double variable y and initializes it to 3.14
     ```
