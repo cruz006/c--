@@ -11,10 +11,10 @@
 - A statement can be a declaration, an expression, a return statement
 
 - There are many different types of statements:
-    - Declaration statements
-    - Jump statements
-    - Expression statements
-    - Compound statements
-    - Selection statements (conditionals)
-    - Iteration statements (loops)
-    - Try blocks
+    - **Declaration statements**:
+    - **Jump statements**:
+    - **Expression statements**:
+    - **Compound statements**:
+    - **Selection statements** (conditionals):
+    - **Iteration statements** (loops):
+    - **Try blocks**:
