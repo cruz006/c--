@@ -20,9 +20,13 @@
     ```
 
 - **Jump statements**: a jump statement is a statement that transfers control to another location in the program. There are several types of jump statements in C++:
+  
   - **break**: exits a loop or switch statement
+  
   - **continue**: skips to the next iteration of a loop
+  
   - **return**: exits a function and returns a value to the caller
+  
   - **goto**: transfers control to a labeled statement
     ```cpp
     for (int i = 0; i < 5; i++) {
