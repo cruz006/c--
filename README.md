@@ -1,7 +1,5 @@
 # Info on this
 
----
-
 This will be a folder of everything c++ for my college classes
 
 ## How to upload to GitHub
