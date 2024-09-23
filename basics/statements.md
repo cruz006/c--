@@ -134,3 +134,7 @@ try {
     cout << "Caught an exception: " << e.what() << endl;
 }
 ```
+
+## Functions and the _main_ functions
+
+- A function is a collection of statements 
