@@ -137,4 +137,6 @@ try {
 
 # Functions and the _main_ functions
 
+## What _is_ a function?
+
 - A function is a collection of statements 
