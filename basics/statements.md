@@ -135,6 +135,6 @@ try {
 }
 ```
 
-## Functions and the _main_ functions
+# Functions and the _main_ functions
 
 - A function is a collection of statements 
